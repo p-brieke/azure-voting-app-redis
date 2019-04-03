@@ -94,3 +94,36 @@ div#results {
     background-color: #f44336;
     color: white;
 }
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #41c8f4;
+}
+
+.button4:hover {
+    background-color: #41c8f4;
+    color: white;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #f4ee05;
+}
+
+.button5:hover {
+    background-color: #f4ee05;
+    color: white;
+}
+
+.button6 {
+    background-color: white;
+    color: black;
+    border: 2px solid #f48e39;
+}
+
+.button6:hover {
+    background-color: #f48e39;
+    color: white;
+}
